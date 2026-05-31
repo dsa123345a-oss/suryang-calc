@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.1.0",
-  "min_version": "2.0.0",
-  "download_url": "",
-  "notice": "테스트 공지입니다",
+  "latest_version": "2026.06.10",
+  "min_version": "2026.05.31",
+  "download_url": "exe 다운로드 주소",
+  "notice": "새 버전입니다",
   "notice_level": "info"
 }
