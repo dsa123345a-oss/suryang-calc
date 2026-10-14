@@ -1,9 +1,9 @@
 {
   "latest_version": "2026.10.14",
   "min_version": "2026.05.30",
-  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.10.14/suryang-calc-2026.10.14.exe",
-  "notice": "생성파일 Drive 자동 업로드가 추가되었습니다. 업데이트 후 담당자가 연결승인 시트에서 PC를 한 번 승인하면 파일명_사용자명으로 저장되고 생성파일 탭에 링크가 기록됩니다.",
+  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.10.14/suryang-calc-2026.10.14-managed.exe",
+  "notice": "생성파일은 담당자의 Drive에 파일명_사용자명으로 자동 보관되고 사용현황도 자동 전송됩니다. 담당자가 연결승인 시트에서 PC를 한 번 승인하면 됩니다. 별도 연결 설정은 필요 없습니다.",
   "notice_level": "info",
-  "sha256": "a20f023635c4b453c1d4859d22fba06d6493b7bc3b2822c50080d3eabc441a84",
-  "size": 31714289
+  "sha256": "7d09832ae3c6f75c5fd1cf142de3ead338b96985c98e16e9b9ff23bc8a53a613",
+  "size": 31710350
 }
