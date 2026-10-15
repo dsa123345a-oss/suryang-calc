@@ -2,7 +2,7 @@
   "latest_version": "2026.10.15",
   "min_version": "2026.05.30",
   "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.10.15/suryang-calc-2026.10.15.exe",
-  "notice": "설계갑지 금액을 수정하면 한글 금액도 자동 변경됩니다. 공구 14개까지 A4 한 장에 표시하며 15개 이상은 생성 전 안내합니다.",
+  "notice": "",
   "notice_level": "info",
   "sha256": "c243e9a20586bcc4f92ddb644a9dcfaf8ecef41441fa755019f6d325643e81b8",
   "size": 31712879
