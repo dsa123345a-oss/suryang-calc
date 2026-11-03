@@ -1,9 +1,9 @@
 {
-  "latest_version": "2026.11.03.1",
+  "latest_version": "2026.11.03.4",
   "min_version": "2026.05.30",
-  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.03.1/suryang-calc-2026.11.03.1.exe",
-  "notice": "자재 59종·일위 연결 정비, 공사노트 DB 연동 및 관매달기 수량 보완",
+  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.03.4/suryang-calc-2026.11.03.4.exe",
+  "notice": "공사노트 DB 기준 입력 명칭·단위 통일, 접합 조건 및 STS엘보 나사식접합 보완",
   "notice_level": "info",
-  "sha256": "b94f10349dfe402f20b33f9b2ad91c77a270234804b77f1bc08492ba20a9ef59",
-  "size": 39026260
+  "sha256": "1ac904ece7a7e1b49ea7ac0c331ad207c17bef89dc1c7b9bebbb4444a0bf6cb7",
+  "size": 38779279
 }
