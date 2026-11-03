@@ -1,9 +1,9 @@
 {
-  "latest_version": "2026.11.03.5",
+  "latest_version": "2026.11.03.6",
   "min_version": "2026.05.30",
-  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.03.5/suryang-calc-2026.11.03.5.exe",
-  "notice": "추가 DB 자재 우선 표시 및 표기 차이·중복 선택 보완",
+  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.03.6/suryang-calc-2026.11.03.6.exe",
+  "notice": "새들분수전 범위품 자동 연결 및 본관·지관 검사 보완",
   "notice_level": "info",
-  "sha256": "1f96aed0dd5c320afff19de86ac3ce47af89a309ff48c314089fd5898b92e56a",
-  "size": 38780099
+  "sha256": "9e94be8318891fb19eeaa9e148eb847a07b7d2e23aa195661ad901f5ba3ea494",
+  "size": 38782144
 }
