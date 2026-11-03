@@ -1,9 +1,9 @@
 {
-  "latest_version": "2026.10.28.1",
+  "latest_version": "2026.11.03.1",
   "min_version": "2026.05.30",
-  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.10.28.1/suryang-calc-2026.10.28.1.exe",
-  "notice": "",
+  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.03.1/suryang-calc-2026.11.03.1.exe",
+  "notice": "자재 59종·일위 연결 정비, 공사노트 DB 연동 및 관매달기 수량 보완",
   "notice_level": "info",
-  "sha256": "28db3ddb57589693484b024a7d68b6f885cb687e1b419dfc8dcf258bf7e72c18",
-  "size": 31712056
+  "sha256": "b94f10349dfe402f20b33f9b2ad91c77a270234804b77f1bc08492ba20a9ef59",
+  "size": 39026260
 }
