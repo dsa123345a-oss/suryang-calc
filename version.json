@@ -1,9 +1,9 @@
 {
-  "latest_version": "2026.11.05.2",
+  "latest_version": "2026.11.05.3",
   "min_version": "2026.05.30",
-  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.05.2/suryang-calc-2026.11.05.2.exe",
-  "notice": "수량산출서 생성기를 공사노트 연동 전인 2026년 10월 28일판으로 복원합니다.",
+  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.05.3/suryang-calc-2026.11.05.3.exe",
+  "notice": "수량산출서를 DB 품목 선택창 없이 저장합니다. 예전 DB 선택 정보가 남은 자재·일위의 엑셀 저장 오류를 수정했고 다크 모드에서 소켓 접합 조건 버튼이 잘 보이도록 개선했습니다. 단가 연결은 공사노트에서 진행합니다.",
   "notice_level": "info",
-  "sha256": "a7f0768dea3cadb940566c57db4639d8d0632e28b3cbd1ee8a9b7920e1c57582",
-  "size": 31712056
+  "sha256": "3665f836ed65914218231a4c142e70e100a152ea95c01018b4996d40bd934444",
+  "size": 38782164
 }
