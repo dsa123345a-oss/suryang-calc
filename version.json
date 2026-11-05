@@ -1,9 +1,9 @@
 {
-  "latest_version": "2026.11.03.6",
+  "latest_version": "2026.11.05.2",
   "min_version": "2026.05.30",
-  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.03.6/suryang-calc-2026.11.03.6.exe",
-  "notice": "새들분수전 범위품 자동 연결 및 본관·지관 검사 보완",
+  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.05.2/suryang-calc-2026.11.05.2.exe",
+  "notice": "수량산출서 생성기를 공사노트 연동 전인 2026년 10월 28일판으로 복원합니다.",
   "notice_level": "info",
-  "sha256": "9e94be8318891fb19eeaa9e148eb847a07b7d2e23aa195661ad901f5ba3ea494",
-  "size": 38782144
+  "sha256": "a7f0768dea3cadb940566c57db4639d8d0632e28b3cbd1ee8a9b7920e1c57582",
+  "size": 31712056
 }
