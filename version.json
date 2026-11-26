@@ -1,9 +1,9 @@
 {
-  "latest_version": "2026.11.26.5",
+  "latest_version": "2026.11.26.6",
   "min_version": "2026.05.30",
-  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.26.5/suryang-calc-2026.11.26.5.exe",
+  "download_url": "https://github.com/dsa123345a-oss/suryang-calc/releases/download/v2026.11.26.6/suryang-calc-2026.11.26.6.exe",
   "notice": "기능 개선 및 안정화",
   "notice_level": "info",
-  "sha256": "fa9ddf85e3b6bae8fd3bef68cf31df50d031a57e7061729803822a5abbea91f7",
-  "size": 42646290
+  "sha256": "e320a79fe2d39b2466b034308ba018972d80872aa0af785b150ff781602a6c23",
+  "size": 42646195
 }
